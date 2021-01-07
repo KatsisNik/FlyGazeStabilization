@@ -1,3 +1,5 @@
+# Tensorflow version used for this project:
+# tensorflow.__version__: '1.14.0'
 # Setting Warnings and Info off for clearer output on terminal
 import warnings
 warnings.filterwarnings('ignore')
